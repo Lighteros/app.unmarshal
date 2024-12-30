@@ -37,7 +37,7 @@
             a.createElement(
               "a",
               {
-                href: "https://unmarshal.io",
+                href: "https://unmarshal.cc",
                 target: "_blank",
                 rel: "noreferrer",
               },
